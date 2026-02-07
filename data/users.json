@@ -307,5 +307,50 @@
     "completedLevels": [
       "1-1"
     ]
+  },
+  {
+    "id": "1770430437932",
+    "createdAt": "2026-02-07T02:13:57.932Z",
+    "role": "student",
+    "name": "Riyan Adit Khaerudin",
+    "birthDate": "2026-02-07",
+    "email": "riyanadit29@gmail.com",
+    "password": "rahasia",
+    "schoolId": null,
+    "classId": null,
+    "xp": 0,
+    "subscriptionStatus": "active",
+    "maxStudents": null
+  },
+  {
+    "id": "1770430463410",
+    "createdAt": "2026-02-07T02:14:23.410Z",
+    "role": "teacher",
+    "name": "Syahrul",
+    "email": "guru4@gmail.com",
+    "password": "rahasia",
+    "nip": "",
+    "schoolId": null,
+    "classId": null,
+    "xp": 0,
+    "subscriptionStatus": "active",
+    "maxStudents": null
+  },
+  {
+    "id": "1770430499023",
+    "createdAt": "2026-02-07T02:14:59.023Z",
+    "role": "school",
+    "name": "SDN Penarukan 01",
+    "email": "sekolah2@gmail.com",
+    "password": "admin",
+    "village": "Penarukan",
+    "district": "Adiwerna",
+    "regency": "Tegal",
+    "address": "Penarukan, Adiwerna, Tegal",
+    "schoolId": "sekolah2@gmail.com",
+    "classId": null,
+    "xp": 0,
+    "subscriptionStatus": "inactive",
+    "maxStudents": 0
   }
 ]
